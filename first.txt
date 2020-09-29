@@ -1,1 +1,6 @@
 This is veresion1 of our project
+
+
+I want this to go into my ...commit 2
+
+now to see > git diff command 
